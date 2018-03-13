@@ -8,7 +8,7 @@ this.moneySpent = 0);
 
 console.log(input);
 console.log(output);
-}
+
   // Your future job begins here ...
 
 
