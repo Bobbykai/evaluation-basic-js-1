@@ -1,4 +1,6 @@
 var applyMap = function() {
+  var output = [];
+  return output;
   // Your future job begins here ...
 }
 
