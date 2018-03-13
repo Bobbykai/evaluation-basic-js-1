@@ -1,15 +1,15 @@
 var mapCustomer = function(customer) {
   var input = {};
-  Object.defineProperty(input, 'property1' , {
-    firstname: 'John',
-    lastname: 'Doe',
-    products: [],
-    moneySpent: 0
-  });
 
+var output =input.push(this.firstname = 'John',
+this.lastname = 'Doe',
+this.products = [],
+this.moneySpent = 0);
 
-console.log(input.property1);
-
+console.log(input);
+console.log(output);
+}
+  // Your future job begins here ...
 
 
 module.exports = {
